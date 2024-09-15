@@ -1,0 +1,1 @@
+export const DEFUALT_LANGUAGE_CODE = "en";
